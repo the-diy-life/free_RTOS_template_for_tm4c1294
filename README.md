@@ -11,7 +11,7 @@ These instructions will give details on how to create simple template to use Fre
 What software you need to install 
 
 
-> 1- Download and install the latest version of Code Composer Studio (CCS) and TivaWare as we described [here](------------)
+> 1- Download and install the latest version of Code Composer Studio (CCS) and TivaWare as we described [here](https://github.com/ahosny333/test-gpio/blob/master/README.md)
  
  
 
@@ -22,7 +22,7 @@ What software you need to install
 
 
 ## Initialize code composer studio
-same as we did in [test-gpio project](----------)
+same as we did in [test-gpio project](https://github.com/ahosny333/test-gpio/blob/master/README.md)
 > 1- create new project
  
 > 2- build variables for the paths that CCS will need to find your files.
